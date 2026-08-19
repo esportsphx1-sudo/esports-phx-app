@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "PHX ESPORTS",
+    "slug": "phx-esports",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "phxesports",
+    "android": {
+      "package": "com.phxesports.mobile",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#05070B"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.phxesports.mobile"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
